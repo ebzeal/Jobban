@@ -53,3 +53,15 @@ export async function loadJob(id) {
   const data = await graphQLRequest(query, {id})
   return data.job
 }
+
+export async function loadCompany(id) {
+  const query =  ` query Companyquery($id: ID!) {
+    company(id:$id){
+        id
+        name
+        description
+    }
+  }`
+  const data = await graphQLRequest(query, {id})
+  return data.company
+}

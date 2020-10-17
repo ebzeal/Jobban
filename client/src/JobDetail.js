@@ -16,7 +16,6 @@ export class JobDetail extends Component {
 
   render() {
     const {job} = this.state;
-    console.log("JobDetail -> render -> job", job)
     
     return (
       <div>
