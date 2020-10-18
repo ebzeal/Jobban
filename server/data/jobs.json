@@ -52,5 +52,17 @@
     "companyId": "SJV0-wdOM",
     "title": "PHP Developer",
     "description": "Proficient in PHP, MySQL, Laravel "
+  },
+  {
+    "id": "SJLYh7YPv",
+    "title": "Reliability Engineer",
+    "description": "Test job",
+    "companyId": "HJRa-DOuG"
+  },
+  {
+    "id": "ry0GT7FDP",
+    "title": "Product Manager",
+    "description": "Scrum Master and Agile lead",
+    "companyId": "HJRa-DOuG"
   }
 ]

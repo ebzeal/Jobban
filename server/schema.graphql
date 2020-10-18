@@ -24,7 +24,6 @@ type Company {
 # input types must be declared separately from the output types above
 
 input CreateJobInput {
-  companyId: ID
   title: String
   description: String
 }
