@@ -64,5 +64,11 @@
     "title": "Product Manager",
     "description": "Scrum Master and Agile lead",
     "companyId": "HJRa-DOuG"
+  },
+  {
+    "id": "BkuNVTowD",
+    "title": "Machine Learning Engineer",
+    "description": "ML and AI using python",
+    "companyId": "HJRa-DOuG"
   }
 ]
