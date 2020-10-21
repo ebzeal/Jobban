@@ -1,3 +1,3 @@
-# GraphQL Job Board
+# Jobban
 
-Sample application used in the GraphQL by Example course.
+A Job board App
